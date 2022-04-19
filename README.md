@@ -1,2 +1,2 @@
 # hello, I am YGY.
-![tupian](C:/Users/94448/Desktop/picture/model.png)
+![tupian](https://github.com/Y-G-Y-G-Y/1/blob/main/Bert.jpg)
